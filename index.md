@@ -1,10 +1,3 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Ada Skillings</title>
-</head>
-gfm:
 # Ada Skillings
 <p>
 Jira Administrator
